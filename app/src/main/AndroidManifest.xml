@@ -24,7 +24,7 @@
 
         <meta-data
             android:name="com.google.android.geo.API_KEY"
-            android:value="AIzaSyBXUM9EXmYwGQVXTSzAglVoMSWn8I-lO9I"/>
+            android:value="PONERTOKEN"/>
 
         <activity
             android:name=".MainActivity"
